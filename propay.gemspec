@@ -18,7 +18,7 @@ HERE
   gem.require_paths = ["lib"]
 
   gem.add_dependency("nokogiri", "~> 1.5")
-  gem.add_runtime_dependency("activemerchant", "~> 1.56")
+  gem.add_runtime_dependency("activemerchant", "~> 1.43")
   gem.add_development_dependency("rspec", "~> 2")
 
   gem.license = "MIT"
