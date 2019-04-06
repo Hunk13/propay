@@ -23,5 +23,4 @@ HERE
 
   gem.license = "MIT"
   gem.extra_rdoc_files = ["README.md", "ChangeLog"]
-  gem.has_rdoc = false
 end
